@@ -58,7 +58,7 @@ Para poder utilizar esta herramienta, sigue los siguientes pasos:
    2) CCO: Añadir en copia oculta
    3) ACK: Solicitar acuse de recibo a los destinatarios
 
-10) Si la excel está seleccionada y las credenciales usadas validadas, el botón general `enviar emails masivos` se habilitará y podrá ser clicado para comenzar el envío másivo.
+10) Si la excel está seleccionada y las credenciales usadas validadas, el botón general `enviar emails masivos` se habilitará y podrá ser clicado para comenzar el envío masivo.
 
 11) Tras la ejecución, podrás ver todos los envíos en tu carpeta de correos enviados.
 
